@@ -30,8 +30,8 @@ This project was developed as part of the Full Stack Developer Internship Assign
 
 # Features
 
-## 🔐 Authentication
-- User Signup
+## Authentication
+- User Signup 
 - User Login
 - JWT Token Authentication
 - Persistent Login using AsyncStorage
